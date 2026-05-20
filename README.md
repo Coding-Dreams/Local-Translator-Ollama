@@ -1,6 +1,6 @@
 # PDF/MOBI Book Translator (Local Ollama)
 
-Translate a PDF or MOBI book into one or more target languages using local compute and a local Ollama model.
+Translate a PDF or MOBI book into one or more target languages using local compute and a local Ollama model.\
 NOTE: IT IS IMPORTANT YOU USE LLM MODELS THAT ARE GOOD FOR THE WANTED LANGUAGE GIGO!!!!
 
 ## What this does
